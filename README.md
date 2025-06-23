@@ -10,7 +10,7 @@ Hello, I'm **Vicko Nicholas Kusnadi**
 RMBI is a prestigious interdisciplinary program jointly offered by:
 > [![School of Business Management](https://img.shields.io/badge/School%20of%20Business%20and%20Management-0072C6?style=flat-square&logo=googleanalytics&logoColor=white)](https://join.hkust.edu.hk/our-programs/school-of-business-and-management)  
 > [![School of Science](https://img.shields.io/badge/School%20of%20Science-FF6F00?style=flat-square&logo=react&logoColor=white)](https://science.hkust.edu.hk/)  
-> [![School of Engineering (Computer Science)](https://img.shields.io/badge/School%20of%20Engineering%20%7C%20CS-2E8B57?style=flat-square&logo=gnometerminal&logoColor=white)](https://cse.hkust.edu.hk/ug/)
+> [![School of Engineering (Computer Science)](https://img.shields.io/badge/School%20of%20Engineering%20%7C%20Computer%20Science%20-2E8B57?style=flat-square&logo=gnometerminal&logoColor=white)](https://cse.hkust.edu.hk/ug/)
 
 I'm passionate about:
 - 🔍 Solving complex, real-world problems  
