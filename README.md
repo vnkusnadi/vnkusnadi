@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🧠 About Me:
-Hi, I'm **Vicko Nicholas Kusnadi**  
+Hello, I'm **Vicko Nicholas Kusnadi**  
 I'm a student at **The Hong Kong University of Science and Technology (HKUST)**, currently pursuing a degree in **Risk Management and Business Intelligence (RMBI)** — a prestigious interdisciplinary program jointly offered by three schools:  
 - The School of Business and Management  
 - The School of Science  
