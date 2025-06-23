@@ -5,7 +5,7 @@ Hello, I'm **Vicko Nicholas Kusnadi**
 🎓 A student at **[The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)**  
 📚 Currently pursuing a degree in:
 
-[![ HEloooooooooooooooooo ](https://img.shields.io/badge/-RMBI%20Program-4B0082?style=for-the-badge&logo=databricks&logoColor=white)](https://rmbi.hkust.edu.hk/)
+[![Risk Management & Business Intelligence (RMBI)](https://img.shields.io/badge/-Risk%20Management%20&%20Business%20Intelligence%20(RMBI)-4B0082?style=for-the-badge&logo=databricks&logoColor=white)](https://rmbi.hkust.edu.hk/)
 
 > RMBI is a prestigious interdisciplinary program jointly offered by:
 >
