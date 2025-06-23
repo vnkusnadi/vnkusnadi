@@ -3,9 +3,9 @@
 ## 🧠 About Me:
 Hello, I'm **Vicko Nicholas Kusnadi**  
 I'm a student at **The Hong Kong University of Science and Technology (HKUST)**, currently pursuing a degree in **Risk Management and Business Intelligence (RMBI)** — a prestigious interdisciplinary program jointly offered by three schools:  
-- The School of Business and Management  
-- The School of Science  
-- The School of Engineering (Computer Science Department)
+[![School of Business and Management](https://img.shields.io/badge/School_of_Business_and_Management-0072C6?style=for-the-badge&logo=Microsoft&logoColor=white)]()  
+[![School of Science](https://img.shields.io/badge/School_of_Science-FF6F00?style=for-the-badge&logo=Atom&logoColor=white)]()  
+[![School of Engineering](https://img.shields.io/badge/School_of_Engineering-2E8B57?style=for-the-badge&logo=Codeforces&logoColor=white)]()
 
 I'm passionate about solving challenging problems and building fun, impactful projects that blend data, logic, and creativity.
 
