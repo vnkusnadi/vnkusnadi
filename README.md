@@ -23,7 +23,7 @@ I'm passionate about:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicko_guo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vnkusnadi/)
-[![Web Portfolio](https://img.shields.io/badge/Web-00FF00?style=for-the-badge&logo=linkedin&logoColor=white)](https://vickoguo.pythonanywhere.com/)
+[![Web Portfolio](https://img.shields.io/badge/Web-228B22?style=for-the-badge&logo=linkedin&logoColor=white)](https://vickoguo.pythonanywhere.com/)
 
 ---
 
